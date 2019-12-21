@@ -32,4 +32,19 @@ class Shoe
     @material
   end  
   
+  def condition=(condition)
+    @condtion = condition
+  end
+  
+  def condition
+    @condition
+  end  
+  
+  
+  
+  
+  
+  
+  
+  
 end  
